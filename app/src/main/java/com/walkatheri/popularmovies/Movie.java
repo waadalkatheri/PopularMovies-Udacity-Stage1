@@ -8,7 +8,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 /**
- * Created by jose on 10/6/15.
+ * Created by waad on 10/6/15.
  */
 public class Movie implements Parcelable{
     private String title;
